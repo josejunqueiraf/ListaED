@@ -61,3 +61,13 @@ namespace listaED
 }
 }
 */
+
+/* TESTE DE MESA
+   i  |  t  |  vt[i]  |  Saída
+   -- | --- | ------- | --------
+   -  |  3  |    -    | 
+   0  |  3  |    8    | 8 Criança
+   1  |  3  |   15    | 15 Adolescente
+   2  |  3  |   65    | 65 Idoso
+   3  |  3  |    -    | 
+*/
